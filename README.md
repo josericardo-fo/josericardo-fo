@@ -1,41 +1,47 @@
-# Hey 👋 What's up?
+# 🏄 Hi, I'm José Ricardo!
+
+**`Eu tive a sorte da sorte me ter`**
 
 ###
 
-My name is ... and I'm a ..., from ....
+- 🦾 A passionate Data Science enthusiast from Brazil.
+- 🌱 I'm currently studying Artificial Intelligence at the Federal University of Goiás (UFG), the first bachelor's degree in AI in Latin America.
+- 🤖 Currently working on Data Analytics and Machine Learning projects, currently involved in Predictive Maintenance and NLP.
+- 🕹️ I'm also working on translating [PokéRogue](https://github.com/pagefaultgames/pokerogue), an open source fangame, into Brazilian Portuguese.
+
 
 ###
 
-## About me
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
+## 🧰 Languages & Tools
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/josericardo-fo/josericardo-fo/output/snake.svg" alt="Snake animation" />
+## 💻 Stats
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josericardo-fo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=josericardo-fo&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josericardo-fo&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>

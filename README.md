@@ -5,10 +5,9 @@
 ###
 
 - 🦾 A passionate Data Science enthusiast from Brazil.
-- 🌱 I'm currently studying Artificial Intelligence at the Federal University of Goiás (UFG), the first bachelor's degree in AI in Latin America.
-- 🤖 Currently working on Data Analytics and Machine Learning projects, currently involved in Predictive Maintenance and NLP.
-- 🕹️ I'm also working on translating [PokéRogue](https://github.com/pagefaultgames/pokerogue), an open source fangame, into Brazilian Portuguese.
-
+- 🌱 Currently studying Artificial Intelligence at the Federal University of Goiás (UFG), the first bachelor's degree in AI in Latin America.
+- 🤖 Working on Data Analytics and Machine Learning projects, currently involved in Predictive Maintenance and NLP.
+- 🕹️ Also translating [PokéRogue](https://github.com/pagefaultgames/pokerogue), an open-source fangame, into Brazilian Portuguese.
 
 ###
 

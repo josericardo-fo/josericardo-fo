@@ -1,6 +1,6 @@
 # 🏄 Hi, I'm José Ricardo!
 
-**`Eu tive a sorte da sorte me ter`**
+**`Digital Craftsman`**
 
 ###
 

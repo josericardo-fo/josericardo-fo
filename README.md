@@ -28,6 +28,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=github" alt="github logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=md" alt="vscode logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" alt="git logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo"  />

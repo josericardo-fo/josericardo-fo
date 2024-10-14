@@ -18,21 +18,23 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="python logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=c" alt="c logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height=45px alt="numpy logo"  />
+  <img src="https://skillicons.dev/icons?i=c" alt="c logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height=45px alt="pandas logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=md" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" alt="git logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=github" alt="github logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=md" alt="markdown logo"  />
 </div>
 
 ###

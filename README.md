@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="python logo"/>
   <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="c++ logo"/>
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=c" alt="c logo"/>
   <img width="10"/>

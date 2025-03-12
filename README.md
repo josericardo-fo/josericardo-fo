@@ -4,9 +4,9 @@
 
 ###
 
-- 🦾 A passionate Data Science enthusiast from Brazil.
-- 🌱 Currently studying Artificial Intelligence at the Federal University of Goiás (UFG), the first bachelor's degree in AI in Latin America.
-- 🤖 Working on Data Analytics, Machine Learning and NLP projects.
+- 🦾 A passionate Artificial Intelligence engineer from Brazil.
+- 🌱 Currently studying AI at the Federal University of Goiás (UFG), the first bachelor's degree in AI in Latin America.
+- 🤖 Working on NLP, Speech, Machine Learning and Data Analytics projects.
 - 🕹️ Also translating [PokéRogue](https://github.com/pagefaultgames/pokerogue), an open-source fangame, into Brazilian Portuguese.
 
 ###
@@ -49,13 +49,3 @@
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=josericardo-fo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /></td>
-    </tr>
-  </table>
-</div>
-
-###

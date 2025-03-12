@@ -7,7 +7,7 @@
 [![discord profile link](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/811392117217165363)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rz9g1ppo74i9v7550kax1m4s2?si=22ab4c5606a0444f)
 
-## 💫 About Me:
+## 💫 About Me
 
 **`Digital Craftsman`**
 

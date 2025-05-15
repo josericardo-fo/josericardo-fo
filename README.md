@@ -14,8 +14,8 @@
 
 - 🦾 A passionate Artificial Intelligence engineer from Brazil.
 - 🌱 Currently studying AI at the Federal University of Goiás (UFG), the first bachelor's degree in AI in Latin America.
-- 🤖 Working on NLP, Speech, Machine Learning and Data Analytics projects.
-- 🕹️ Also translating [PokéRogue](https://github.com/pagefaultgames/pokerogue), an open-source fangame, into Brazilian Portuguese.
+- 🤖 Working on NLP, MLOps and Machine Learning projects.
+- 🕹️ Also translating the open-source fangame [PokéRogue](https://github.com/pagefaultgames/pokerogue) into Brazilian Portuguese.
 
 ###
 

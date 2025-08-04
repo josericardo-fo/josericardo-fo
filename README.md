@@ -1,5 +1,4 @@
-# 🏄 Hi, I'm José Ricardo!
-
+# 🏄 Hi, I'm José Ricardo
 
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josericardo2)
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/josericardo.fo)
@@ -14,46 +13,27 @@
 
 - 🦾 A passionate Artificial Intelligence engineer from Brazil.
 - 🌱 Currently studying AI at the Federal University of Goiás (UFG), the first bachelor's degree in AI in Latin America.
-- 🤖 Working on NLP, MLOps and Machine Learning projects.
+- 🤖 Working on NLP, DevOps, MLOps and Machine Learning projects.
 - 🕹️ Also translating the open-source fangame [PokéRogue](https://github.com/pagefaultgames/pokerogue) into Brazilian Portuguese.
-
-###
 
 ## 💻 Tech Stack
 
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" alt="python logo"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height=45px alt="pandas logo"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker logo"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi logo"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git logo"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="github logo"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman logo"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=md" alt="markdown logo"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,vscode,git,github,postman,mysql,firebase,aws,gcp,docker,jenkins" alt="Tech Stack" />
+</a>
 </div>
-
-###
 
 ## 📊 GitHub Stats
 
-###
+<div align="center">
+<a href="https://gh-stats-gen.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api?username=josericardo-fo&theme=react&show_icons=true&hide_border=true&count_private=true" />
+</a>
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=josericardo-fo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=josericardo-fo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  /></td>
-    </tr>
-  </table>
+<a href="https://gh-stats-gen.vercel.app/">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josericardo-fo&theme=react&hide_border=true" />
+</a>
 </div>

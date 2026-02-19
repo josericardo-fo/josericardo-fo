@@ -20,17 +20,11 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,vscode,git,github,postman,mysql,firebase,aws,gcp,docker,jenkins" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,vscode,git,github,gitlab,firebase,aws,gcp,docker,jenkins" alt="Tech Stack" />
 </a>
 </div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<a href="https://gh-stats-gen.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api?username=josericardo-fo&theme=react&show_icons=true&hide_border=true&count_private=true" />
-</a>
-</div>
 
 <div align="center">
 <a href="https://gh-stats-gen.vercel.app/">

@@ -6,14 +6,12 @@
 [![Email](https://img.shields.io/badge/Email-1f1f18?logo=gmail&logoColor=EA4335)](mailto:josericardo.fleury05@gmail.com)
 ![visitors](https://komarev.com/ghpvc/?username=josericardo2&color=blueviolet)
 
-I'm an undergraduate AI student at the [Federal University of Goiás](https://international.ufg.br) — the first bachelor's degree in AI in Latin America — where I work as an AI/MLOps Engineer and NLP researcher at [CEIA](https://ceia.ufg.br) and [AKCIT](https://akcit.ufg.br/).
+I'm an undergraduate AI student at the [Federal University of Goiás](https://international.ufg.br), where I work as an AI/MLOps Engineer and NLP researcher at [CEIA](https://ceia.ufg.br) and [AKCIT](https://akcit.ufg.br/).
 
 - 🎓 8th semester AI undergrad (UFG) · AI/MLOps Engineer @ CEIA since 2024
 - 🔭 Working on NLP, DevOps, MLOps and Machine Learning projects
 - 🧑‍🏫 Organizing UFG Study Groups on NLP and MLOps
 - 🕹️ Translating the open-source fangame [PokéRogue](https://github.com/pagefaultgames/pokerogue) into Brazilian Portuguese
-
----
 
 ## 💻 Tech Stack
 
